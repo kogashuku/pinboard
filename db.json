@@ -1,0 +1,19 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "text": "Lorem ipsum dolorum",
+      "desc": "Lorem ipsum dolorum sit amet. Lorem ipsum dolorum.",
+      "like": 5,
+      "dislike: 1,
+      "approved": true,
+      "comments": [
+       {
+         "id": 1
+         "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea tak",
+         "approved": true
+       }
+     ]
+    }
+  ]
+}
